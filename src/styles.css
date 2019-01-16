@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+
+.cursor {
+  cursor: pointer;
+  user-select: none;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.filter-active {
+  text-decoration: underline;
+}
